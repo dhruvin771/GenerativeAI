@@ -1,2 +1,3 @@
 PerplexiPy 
 python-dotenv
+Flask
